@@ -1,0 +1,4 @@
+BadgerSafe
+==========
+
+Encryption email app
